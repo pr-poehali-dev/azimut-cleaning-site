@@ -24,6 +24,7 @@ const Header = () => {
     { name: 'Отзывы', path: '/reviews' },
     { name: 'Блог', path: '/blog' },
     { name: 'Контакты', path: '/contacts' },
+    { name: 'Калькулятор', path: '/calculator' },
   ];
 
   return (
